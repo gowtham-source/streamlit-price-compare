@@ -1,0 +1,11 @@
+textblob
+pycountry
+langdetect
+bs4
+pandas
+matplotlib
+streamlit
+regex
+request
+plotly
+google_images_download
