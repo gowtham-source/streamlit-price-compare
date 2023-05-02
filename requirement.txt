@@ -6,6 +6,6 @@ pandas
 matplotlib
 streamlit
 regex
-request
+requests
 plotly
-google_images_download
+
