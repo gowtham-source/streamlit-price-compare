@@ -17,7 +17,7 @@ from nltk.stem import SnowballStemmer
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from sklearn.feature_extraction.text import CountVectorizer
 
-# nltk.downloader.download('vader_lexicon')
+nltk.downloader.download('vader_lexicon')
 
 
 def percentage(part, whole):
